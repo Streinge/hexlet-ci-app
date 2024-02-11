@@ -2,7 +2,6 @@
 jobs:
   build: # имя взято для примера
     runs-on: ubuntu-latest
-
     steps:
       # Клонируем репозиторий
       - uses: actions/checkout@v3
