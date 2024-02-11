@@ -1,5 +1,5 @@
 ### Github Actions
-[![Actions Status](https://github.com/Streinge/php-project-48/actions/workflows/example.yml/badge.svg)](https://github.com/Streinge/php-project-48/actions)
+[![Actions Status](https://github.com/Streinge/hexlet-ci-app/actions/workflows/example.yml/badge.svg)](https://github.com/Streinge/hexlet-ci-app/actions)
 
 # Example app for CI Hexlet course
 
