@@ -1,3 +1,6 @@
+### Github Actions
+[![Actions Status](https://github.com/Streinge/php-project-48/actions/workflows/example.yml/badge.svg)](https://github.com/Streinge/php-project-48/actions)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
